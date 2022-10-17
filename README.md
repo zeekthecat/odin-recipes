@@ -1,1 +1,1 @@
-Recipes for disaster in my life, an strictly HTML practice project as I run through the Odin Project.
+Recipes for disaster in my life, an HTML practice project as I run through the Odin Project. Minor CSS applied.
