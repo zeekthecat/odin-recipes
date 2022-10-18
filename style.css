@@ -9,10 +9,13 @@
     font-size: 20px;
 }
 
-/* MIGRAINE PAGE STYLES */
+/* RECIPE PAGE STYLES */
 
+.img {
+    width: 40%;
+    border: solid black 2px;
+}
 
-/* NO NAP PAGE STYLES */
-
-
-/* SALEM OCTOBER PAGE STYLES */
+.details {
+    width: 50%;
+}
